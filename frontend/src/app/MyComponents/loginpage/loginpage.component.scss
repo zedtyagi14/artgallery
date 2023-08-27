@@ -1,0 +1,57 @@
+.page{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    place-items: center;
+    background-color: #fff;
+}
+.rightpage{
+    width: 50%;
+    height: 100%;
+    color: #fff;
+    display: grid;
+    place-content: center;
+    background-color: black;
+}
+.heading{
+    display: grid;
+    place-content: center;
+}
+.forgot{
+    text-align: end;
+}
+.forgot-pass{
+    text-decoration: none;
+}
+.forgot-pass:hover{
+    text-decoration: underline;
+}
+.button{
+    display: grid;
+    place-content: center;
+}
+.new-account{
+    text-align: center;
+}
+.create{
+    text-decoration: none;
+}
+.create:hover{
+    text-decoration: underline;
+}
+.form{
+    width: 100%;
+    height: 100%;
+}
+.leftpage{
+    width: 50%;
+    height: 100%;
+    display: grid;
+    place-content: center;
+    background-color: #fff;
+}
+.leftbackground{
+    width: 100%;
+    height: 100%;
+}
